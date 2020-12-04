@@ -1,6 +1,6 @@
-#This my project Responsive Web Design Projects
+# This my project Responsive Web Design Projects
 
-#Build a Tribute Page at FreeCodeCamp 
+#Create a tribute page on FreeCodeCamp see this link
 
 
-#view thi s page on link <a href="https://saniellocutor.dev.br/tribute-page/">Tribute page Unix</a>
+#view thi s page on link <a href="https://saniellocutor.dev.br/tribute-page-unix/">Tribute page Unix</a>
